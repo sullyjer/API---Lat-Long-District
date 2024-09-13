@@ -1,2 +1,1 @@
-Conexão Baseada no OSMNX
-API conectada no OPEN STREET MAP
+Conexão Baseada no OSMNX e API conectada no OPEN STREET MAP
